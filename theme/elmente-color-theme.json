@@ -90,7 +90,7 @@
     }
   ],
   "fonts": {
-    "editor.fontFamily": "Consolas, 'Maven Pro', monospace",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
     "editor.fontSize": 14,
     "editor.fontWeight": "400",
     "editor.lineHeight": 22
