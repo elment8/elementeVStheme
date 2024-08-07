@@ -1,0 +1,30 @@
+{
+  "name": "elmente-theme",
+  "displayName": "ElMente",
+  "description": "A high contrast, modern, minimalistic theme with flat, simple, modern, boxed icons.",
+  "version": "1.0.1",
+  "publisher": "your-name",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes",
+    "Icon Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ElMente",
+        "uiTheme": "vs-dark",
+        "path": "./themes/elmente-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "elmente-icons",
+        "label": "ElMente Icons",
+        "path": "./icons/elmente-icons.json"
+      }
+    ]
+  }
+}

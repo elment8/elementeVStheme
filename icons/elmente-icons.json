@@ -1,0 +1,125 @@
+{
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "./file.svg"
+    },
+    "_folder": {
+      "iconPath": "./folder.svg"
+    },
+    "_folder_open": {
+      "iconPath": "./folder-open.svg"
+    },
+    "javascript": {
+      "iconPath": "./file-types/javascript.svg"
+    },
+    "typescript": {
+      "iconPath": "./file-types/typescript.svg"
+    },
+    "json": {
+      "iconPath": "./file-types/json.svg"
+    },
+    "html": {
+      "iconPath": "./file-types/html.svg"
+    },
+    "css": {
+      "iconPath": "./file-types/css.svg"
+    },
+    "scss": {
+      "iconPath": "./file-types/scss.svg"
+    },
+    "python": {
+      "iconPath": "./file-types/python.svg"
+    },
+    "java": {
+      "iconPath": "./file-types/java.svg"
+    },
+    "csharp": {
+      "iconPath": "./file-types/csharp.svg"
+    },
+    "cpp": {
+      "iconPath": "./file-types/cpp.svg"
+    },
+    "ruby": {
+      "iconPath": "./file-types/ruby.svg"
+    },
+    "php": {
+      "iconPath": "./file-types/php.svg"
+    },
+    "go": {
+      "iconPath": "./file-types/go.svg"
+    },
+    "shell": {
+      "iconPath": "./file-types/shell.svg"
+    },
+    "markdown": {
+      "iconPath": "./file-types/markdown.svg"
+    },
+    "yaml": {
+      "iconPath": "./file-types/yaml.svg"
+    },
+    "xml": {
+      "iconPath": "./file-types/xml.svg"
+    },
+    "docker": {
+      "iconPath": "./file-types/docker.svg"
+    },
+    "git": {
+      "iconPath": "./file-types/git.svg"
+    }
+    // Add more file types as needed
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "languageIds": {
+    "javascript": "javascript",
+    "typescript": "typescript",
+    "json": "json",
+    "html": "html",
+    "css": "css",
+    "scss": "scss",
+    "python": "python",
+    "java": "java",
+    "csharp": "csharp",
+    "cpp": "cpp",
+    "ruby": "ruby",
+    "php": "php",
+    "go": "go",
+    "shellscript": "shell",
+    "markdown": "markdown",
+    "yaml": "yaml",
+    "xml": "xml",
+    "dockerfile": "docker",
+    "git-commit": "git",
+    "git-rebase": "git"
+
+},
+  "fileExtensions": {
+    "js": "javascript",
+    "ts": "typescript",
+    "json": "json",
+    "html": "html",
+    "htm": "html",
+    "css": "css",
+    "scss": "scss",
+    "py": "python",
+    "java": "java",
+    "cs": "csharp",
+    "cpp": "cpp",
+    "h": "cpp",
+    "hpp": "cpp",
+    "rb": "ruby",
+    "php": "php",
+    "go": "go",
+    "sh": "shell",
+    "md": "markdown",
+    "yaml": "yaml",
+    "yml": "yaml",
+    "xml": "xml",
+    "dockerfile": "docker",
+    "gitignore": "git",
+    "gitconfig": "git",
+    "gitattributes": "git"
+
+}
+}
