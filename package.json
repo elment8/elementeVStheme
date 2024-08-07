@@ -1,9 +1,9 @@
 {
-  "name": "elmente-theme",
+  "name": "elmente",
   "displayName": "ElMente",
-  "description": "A high contrast, modern, minimalistic theme with flat, simple, modern, boxed icons.",
+  "description": "Elevate your coding experience with ElMente, a high-contrast, modern, minimalistic theme designed for clarity and efficiency. Featuring dynamic language colors and flat, simple icons, ElMente transforms your Visual Studio Code environment into a sleek, distraction-free workspace.",
   "version": "1.0.1",
-  "publisher": "your-name",
+  "publisher": "El-Mente",
   "engines": {
     "vscode": "^1.50.0"
   },
@@ -28,3 +28,4 @@
     ]
   }
 }
+

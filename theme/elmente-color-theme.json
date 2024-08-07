@@ -15,12 +15,20 @@
     "editorWarning.foreground": "#FF8800",
     "sideBar.background": "#252526",
     "sideBar.foreground": "#D4D4D4",
+    "sideBarSectionHeader.background": "#2D2D30",
+    "sideBarSectionHeader.foreground": "#D4D4D4",
     "statusBar.background": "#333333",
     "statusBar.foreground": "#D4D4D4",
     "titleBar.activeBackground": "#1E1E1E",
     "titleBar.activeForeground": "#D4D4D4",
     "terminal.background": "#1E1E1E",
-    "terminal.foreground": "#D4D4D4"
+    "terminal.foreground": "#D4D4D4",
+    "list.activeSelectionBackground": "#FFCC66",
+    "list.activeSelectionForeground": "#FFFFFF",
+    "list.inactiveSelectionBackground": "#3A3D41",
+    "list.inactiveSelectionForeground": "#D4D4D4",
+    "list.hoverBackground": "#3A3D41",
+    "list.hoverForeground": "#D4D4D4"
   },
   "tokenColors": [
     {
@@ -78,5 +86,9 @@
     "editor.fontSize": 14,
     "editor.fontWeight": "400",
     "editor.lineHeight": 22
+  },
+  "workbench.colorCustomizations": {
+    "explorer.modifiedForeground": "#CCA700",
+    "explorer.untrackedForeground": "#6A9955"
   }
 }

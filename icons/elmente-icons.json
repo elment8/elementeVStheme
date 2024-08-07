@@ -36,23 +36,26 @@
     "csharp": {
       "iconPath": "./file-types/csharp.svg"
     },
-    "cpp": {
-      "iconPath": "./file-types/cpp.svg"
+    "php": {
+      "iconPath": "./file-types/php.svg"
     },
     "ruby": {
       "iconPath": "./file-types/ruby.svg"
     },
-    "php": {
-      "iconPath": "./file-types/php.svg"
-    },
     "go": {
       "iconPath": "./file-types/go.svg"
     },
+    "rust": {
+      "iconPath": "./file-types/rust.svg"
+    },
+    "swift": {
+      "iconPath": "./file-types/swift.svg"
+    },
+    "kotlin": {
+      "iconPath": "./file-types/kotlin.svg"
+    },
     "shell": {
       "iconPath": "./file-types/shell.svg"
-    },
-    "markdown": {
-      "iconPath": "./file-types/markdown.svg"
     },
     "yaml": {
       "iconPath": "./file-types/yaml.svg"
@@ -60,13 +63,15 @@
     "xml": {
       "iconPath": "./file-types/xml.svg"
     },
-    "docker": {
-      "iconPath": "./file-types/docker.svg"
+    "markdown": {
+      "iconPath": "./file-types/markdown.svg"
     },
-    "git": {
-      "iconPath": "./file-types/git.svg"
+    "sql": {
+      "iconPath": "./file-types/sql.svg"
+    },
+    "dockerfile": {
+      "iconPath": "./file-types/dockerfile.svg"
     }
-    // Add more file types as needed
   },
   "file": "_file",
   "folder": "_folder",
@@ -81,19 +86,19 @@
     "python": "python",
     "java": "java",
     "csharp": "csharp",
-    "cpp": "cpp",
-    "ruby": "ruby",
     "php": "php",
+    "ruby": "ruby",
     "go": "go",
-    "shellscript": "shell",
-    "markdown": "markdown",
+    "rust": "rust",
+    "swift": "swift",
+    "kotlin": "kotlin",
+    "shell": "shellscript",
     "yaml": "yaml",
     "xml": "xml",
-    "dockerfile": "docker",
-    "git-commit": "git",
-    "git-rebase": "git"
-
-},
+    "markdown": "markdown",
+    "sql": "sql",
+    "dockerfile": "dockerfile"
+  },
   "fileExtensions": {
     "js": "javascript",
     "ts": "typescript",
@@ -105,21 +110,19 @@
     "py": "python",
     "java": "java",
     "cs": "csharp",
-    "cpp": "cpp",
-    "h": "cpp",
-    "hpp": "cpp",
-    "rb": "ruby",
     "php": "php",
+    "rb": "ruby",
     "go": "go",
+    "rs": "rust",
+    "swift": "swift",
+    "kt": "kotlin",
     "sh": "shell",
-    "md": "markdown",
     "yaml": "yaml",
     "yml": "yaml",
     "xml": "xml",
-    "dockerfile": "docker",
-    "gitignore": "git",
-    "gitconfig": "git",
-    "gitattributes": "git"
-
-}
+    "md": "markdown",
+    "markdown": "markdown",
+    "sql": "sql",
+    "dockerfile": "dockerfile"
+  }
 }
