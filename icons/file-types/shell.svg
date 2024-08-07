@@ -1,2 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg width="800px" height="800px" viewBox="0 0 48 48" id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg"><defs><style>.cls-1{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class="cls-1" d="M6.5,8.4a2,2,0,0,0-2,2V37.6a2,2,0,0,0,2,2h35a2,2,0,0,0,2-2V10.4a2,2,0,0,0-2-2ZM9,23.16l7.72,6L9,35.13v-12Zm9.46,8.66h11v3.31h-11Z"/></svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" fill="#D4D4D4">
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="SVGRepo_iconCarrier">
+<title>file_type_shell</title>
+<path d="M29.4,27.6H2.5V4.5H29.4Zm-25.9-1H28.4V5.5H3.5Z" style="fill:#D4D4D4"/>
+<polygon points="6.077 19.316 5.522 18.484 10.366 15.255 5.479 11.184 6.12 10.416 12.035 15.344 6.077 19.316" style="fill:#D4D4D4"/>
+<rect x="12.7" y="18.2" width="7.8" height="1" style="fill:#D4D4D4"/>
+<rect x="2.5" y="5.5" width="26.9" height="1.9" style="fill:#D4D4D4"/>
+</g>
+</svg>

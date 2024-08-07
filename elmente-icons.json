@@ -1,0 +1,239 @@
+{
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "./icons/file.svg"
+    },
+    "_file_selected": {
+      "iconPath": "./icons/file-selected.svg"
+    },
+    "_folder": {
+      "iconPath": "./icons/folder.svg"
+    },
+    "_folder_open": {
+      "iconPath": "./icons/folder-open.svg"
+    },
+    "javascript": {
+      "iconPath": "./icons/file-types/javascript.svg"
+    },
+    "javascript_selected": {
+      "iconPath": "./icons/file-types/javascript-selected.svg"
+    },
+    "typescript": {
+      "iconPath": "./icons/file-types/typescript.svg"
+    },
+    "typescript_selected": {
+      "iconPath": "./icons/file-types/typescript-selected.svg"
+    },
+    "json": {
+      "iconPath": "./icons/file-types/json.svg"
+    },
+    "json_selected": {
+      "iconPath": "./icons/file-types/json-selected.svg"
+    },
+    "html": {
+      "iconPath": "./icons/file-types/html.svg"
+    },
+    "html_selected": {
+      "iconPath": "./icons/file-types/html-selected.svg"
+    },
+    "css": {
+      "iconPath": "./icons/file-types/css.svg"
+    },
+    "css_selected": {
+      "iconPath": "./icons/file-types/css-selected.svg"
+    },
+    "scss": {
+      "iconPath": "./icons/file-types/scss.svg"
+    },
+    "scss_selected": {
+      "iconPath": "./icons/file-types/scss-selected.svg"
+    },
+    "python": {
+      "iconPath": "./icons/file-types/python.svg"
+    },
+    "python_selected": {
+      "iconPath": "./icons/file-types/python-selected.svg"
+    },
+    "java": {
+      "iconPath": "./icons/file-types/java.svg"
+    },
+    "java_selected": {
+      "iconPath": "./icons/file-types/java-selected.svg"
+    },
+    "csharp": {
+      "iconPath": "./icons/file-types/csharp.svg"
+    },
+    "csharp_selected": {
+      "iconPath": "./icons/file-types/csharp-selected.svg"
+    },
+    "php": {
+      "iconPath": "./icons/file-types/php.svg"
+    },
+    "php_selected": {
+      "iconPath": "./icons/file-types/php-selected.svg"
+    },
+    "ruby": {
+      "iconPath": "./icons/file-types/ruby.svg"
+    },
+    "ruby_selected": {
+      "iconPath": "./icons/file-types/ruby-selected.svg"
+    },
+    "go": {
+      "iconPath": "./icons/file-types/go.svg"
+    },
+    "go_selected": {
+      "iconPath": "./icons/file-types/go-selected.svg"
+    },
+    "rust": {
+      "iconPath": "./icons/file-types/rust.svg"
+    },
+    "rust_selected": {
+      "iconPath": "./icons/file-types/rust-selected.svg"
+    },
+    "swift": {
+      "iconPath": "./icons/file-types/swift.svg"
+    },
+    "swift_selected": {
+      "iconPath": "./icons/file-types/swift-selected.svg"
+    },
+    "kotlin": {
+      "iconPath": "./icons/file-types/kotlin.svg"
+    },
+    "kotlin_selected": {
+      "iconPath": "./icons/file-types/kotlin-selected.svg"
+    },
+    "shell": {
+      "iconPath": "./icons/file-types/shell.svg"
+    },
+    "shell_selected": {
+      "iconPath": "./icons/file-types/shell-selected.svg"
+    },
+    "yaml": {
+      "iconPath": "./icons/file-types/yaml.svg"
+    },
+    "yaml_selected": {
+      "iconPath": "./icons/file-types/yaml-selected.svg"
+    },
+    "xml": {
+      "iconPath": "./icons/file-types/xml.svg"
+    },
+    "xml_selected": {
+      "iconPath": "./icons/file-types/xml-selected.svg"
+    },
+    "markdown": {
+      "iconPath": "./icons/file-types/markdown.svg"
+    },
+    "markdown_selected": {
+      "iconPath": "./icons/file-types/markdown-selected.svg"
+    },
+    "sql": {
+      "iconPath": "./icons/file-types/sql.svg"
+    },
+    "sql_selected": {
+      "iconPath": "./icons/file-types/sql-selected.svg"
+    },
+    "dockerfile": {
+      "iconPath": "./icons/file-types/dockerfile.svg"
+    },
+    "dockerfile_selected": {
+      "iconPath": "./icons/file-types/dockerfile-selected.svg"
+    }
+  },
+  "file": "_file",
+  "fileSelected": "_file_selected",
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "fileNames": {
+    "javascript": "javascript",
+    "javascript-selected": "javascript_selected",
+    "typescript": "typescript",
+    "typescript-selected": "typescript_selected",
+    "json": "json",
+    "json-selected": "json_selected",
+    "html": "html",
+    "html-selected": "html_selected",
+    "css": "css",
+    "css-selected": "css_selected",
+    "scss": "scss",
+    "scss-selected": "scss_selected",
+    "python": "python",
+    "python-selected": "python_selected",
+    "java": "java",
+    "java-selected": "java_selected",
+    "csharp": "csharp",
+    "csharp-selected": "csharp_selected",
+    "php": "php",
+    "php-selected": "php_selected",
+    "ruby": "ruby",
+    "ruby-selected": "ruby_selected",
+    "go": "go",
+    "go-selected": "go_selected",
+    "rust": "rust",
+    "rust-selected": "rust_selected",
+    "swift": "swift",
+    "swift-selected": "swift_selected",
+    "kotlin": "kotlin",
+    "kotlin-selected": "kotlin_selected",
+    "shell": "shell",
+    "shell-selected": "shell_selected",
+    "yaml": "yaml",
+    "yaml-selected": "yaml_selected",
+    "xml": "xml",
+    "xml-selected": "xml_selected",
+    "markdown": "markdown",
+    "markdown-selected": "markdown_selected",
+    "sql": "sql",
+    "sql-selected": "sql_selected",
+    "dockerfile": "dockerfile",
+    "dockerfile-selected": "dockerfile_selected"
+  },
+  "fileExtensions": {
+    "js": "javascript",
+    "ts": "typescript",
+    "json": "json",
+    "html": "html",
+    "htm": "html",
+    "css": "css",
+    "scss": "scss",
+    "py": "python",
+    "java": "java",
+    "cs": "csharp",
+    "php": "php",
+    "rb": "ruby",
+    "go": "go",
+    "rs": "rust",
+    "swift": "swift",
+    "kt": "kotlin",
+    "sh": "shell",
+    "yaml": "yaml",
+    "yml": "yaml",
+    "xml": "xml",
+    "md": "markdown",
+    "markdown": "markdown",
+    "sql": "sql",
+    "dockerfile": "dockerfile"
+  },
+  "languageIds": {
+    "javascript": "javascript",
+    "typescript": "typescript",
+    "json": "json",
+    "html": "html",
+    "css": "css",
+    "scss": "scss",
+    "python": "python",
+    "java": "java",
+    "csharp": "csharp",
+    "php": "php",
+    "ruby": "ruby",
+    "go": "go",
+    "rust": "rust",
+    "swift": "swift",
+    "kotlin": "kotlin",
+    "shell": "shellscript",
+    "yaml": "yaml",
+    "xml": "xml",
+    "markdown": "markdown",
+    "sql": "sql",
+    "dockerfile": "dockerfile"
+  }
+}

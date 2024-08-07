@@ -28,7 +28,15 @@
     "list.inactiveSelectionBackground": "#3A3D41",
     "list.inactiveSelectionForeground": "#D4D4D4",
     "list.hoverBackground": "#3A3D41",
-    "list.hoverForeground": "#D4D4D4"
+    "list.hoverForeground": "#D4D4D4",
+    "list.focusBackground": "#FFCC66",
+    "list.focusForeground": "#FFFFFF",
+    "list.highlightForeground": "#6A9955",
+    "list.errorForeground": "#F44747",
+    "list.warningForeground": "#FF8800",
+    "listFilterWidget.background": "#252526",
+    "listFilterWidget.outline": "#000000",
+    "listFilterWidget.noMatchesOutline": "#BE1100"
   },
   "tokenColors": [
     {
@@ -82,13 +90,13 @@
     }
   ],
   "fonts": {
-    "editor.fontFamily": "'Maven Pro', 'Fira Code', 'Consolas', 'Courier New', monospace",
+    "editor.fontFamily": "Consolas, 'Maven Pro', monospace",
     "editor.fontSize": 14,
     "editor.fontWeight": "400",
     "editor.lineHeight": 22
   },
   "workbench.colorCustomizations": {
-    "explorer.modifiedForeground": "#CCA700",
-    "explorer.untrackedForeground": "#6A9955"
+    "explorer.modifiedResourceDecoration.foreground": "#CCA700",
+    "explorer.untrackedResourceDecoration.foreground": "#6A9955"
   }
 }

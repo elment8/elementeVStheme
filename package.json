@@ -3,7 +3,7 @@
   "displayName": "ElMente",
   "description": "Elevate your coding experience with ElMente, a high-contrast, modern, minimalistic theme designed for clarity and efficiency. Featuring dynamic language colors and flat, simple icons, ElMente transforms your Visual Studio Code environment into a sleek, distraction-free workspace.",
   "version": "1.0.1",
-  "publisher": "El-Mente",
+  "publisher": "ctrlalt",
   "engines": {
     "vscode": "^1.50.0"
   },
@@ -23,9 +23,18 @@
       {
         "id": "elmente-icons",
         "label": "ElMente Icons",
-        "path": "./icons/elmente-icons.json"
+        "path": "./elmente-icons.json"
       }
     ]
+  },
+  "main": "./extension.js",
+  "activationEvents": [
+    "*"
+  ],
+  "scripts": {
+    "postinstall": "echo 'ElMente extension installed. Make sure to reload VSCode to apply font settings.'"
+  },
+  "dependencies": {
+    "vscode": "^1.1.37"
   }
 }
-

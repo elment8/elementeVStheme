@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Consolas';
+  src: url('../fonts/consolas.woff2') format('woff2'),
+       url('../fonts/consolas.woff') format('woff'),
+       url('../fonts/consolas.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Consolas Bold';
+  src: url('../fonts/consolas-bold.woff2') format('woff2'),
+       url('../fonts/consolas-bold.woff') format('woff'),
+       url('../fonts/consolas-bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
